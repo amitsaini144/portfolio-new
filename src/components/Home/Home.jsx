@@ -19,7 +19,7 @@ const Home = () => {
                         <span className="text-copper">frontend</span>.
                     </h1>
                     <p className="text-ash text-lg md:text-xl mt-6">
-                        Full-stack developer with 1+ years shipping production SaaS
+                        Full-stack developer with 2 years of experience shipping production SaaS
                         across FinTech and real-time Voice AI. Comfortable owning
                         features end-to-end, from schema design to shipped UI.
                     </p>

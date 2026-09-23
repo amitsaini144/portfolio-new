@@ -20,7 +20,7 @@ const AboutCard = () => {
                         <span className="text-copper">Innover Labs</span>.
                     </p>
                     <p>
-                        I&apos;ve spent the last year-plus shipping production SaaS
+                        I&apos;ve spent the last 2 years shipping production SaaS
                         across FinTech and real-time Voice AI — bank reconciliation
                         engines, invoice matching pipelines, and a Deepgram-powered
                         speech-to-speech translation pipeline for live interpretation
